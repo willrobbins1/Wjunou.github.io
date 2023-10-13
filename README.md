@@ -1,2 +1,3 @@
 # Wjunou.github.io
-deploy my recipie webpage
+Deploy my recipie webpage
+Lanetech, Chicago li
